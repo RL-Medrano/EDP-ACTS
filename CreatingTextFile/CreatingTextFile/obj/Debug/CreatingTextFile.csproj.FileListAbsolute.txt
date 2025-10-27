@@ -1,0 +1,13 @@
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.AssemblyReference.cache
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmFileName.resources
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmLab1.resources
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmRegistration.resources
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.Properties.Resources.resources
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.GenerateResource.cache
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.CoreCompileInputs.cache
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe.config
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.pdb
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.exe
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.pdb
+C:\Users\Ronn Medrano\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.exe.config
