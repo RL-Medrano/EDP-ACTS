@@ -1,0 +1,11 @@
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\bin\Debug\infoRecords.exe.config
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\bin\Debug\infoRecords.exe
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\bin\Debug\infoRecords.pdb
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.csproj.AssemblyReference.cache
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.PersonalInfo.resources
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.Properties.Resources.resources
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.csproj.GenerateResource.cache
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.csproj.CoreCompileInputs.cache
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.exe
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.pdb
+C:\Users\Ronn Medrano\source\repos\infoRecords\infoRecords\obj\Debug\infoRecords.exe.config
